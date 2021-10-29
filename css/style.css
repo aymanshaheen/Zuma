@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.navbar{
+    background-color: #32253D;
+    
+}
+
+.navbar-brand{
+    font-family: "Squada one";
+    font-size: 30px;
+}
+
+.nav-link{
+    font-size: 18px;
+}
+
+.nav-icon li{
+    padding-left:10px ;
+}
+
+.shop_cat{
+    height: 300px;
+    background-color: #F7F7F7;
+}
+
+.desc1 h1{
+    font-size: 34px;
+}
+
+.desc1 p{
+    font-size: 22px;
+    color:gray;
+}
+
+.shop_cat .row img{
+    width: 150px;
+    clip-path: circle();
+ }
+ 
+.shop_cat .row p{
+    padding-top: 10px;
+    text-align: center;
+    size: 22px;
+    font-weight: 600;
+}
+
+
+.pop_men .row img{
+    width: 500px;
+    padding: 10px;
+    transform: scale(1.05);
+    transition: 0.7s;
+ }
+
+ .pop_men .row img:hover{
+    transform: scale(1);
+ }
+
+ .shop .row div{
+     margin: 16px;
+     width: 220px;
+ }
+
+ .shop .row img{
+     width: 220px;
+ }
+
+ .shop .row p{
+     text-align: start;
+     font-size: 16px;
+     padding-top: 10px;
+     font-weight: 600;
+     height: 90px;
+ }
+
+ .occasion .row .img1{
+   clip-path: circle();
+   width: 280px;
+}
+ 
